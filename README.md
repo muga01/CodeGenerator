@@ -2,7 +2,7 @@
 This repo contains the basic implementation of the pyQT5 program which reads the configuration file .json extracted from the ML process. 
 What the ML process does is UI Elements detection on a subject GUI screenshot and generate the .json file containing the boundary boxes,
 class names and some more important information about the object detected such as image width and height. The program expect a single 
-parameter,```config_json_file_path``` which is the path to .json file. The .json file are referenced from ```data directory``` by default. At minimum, the .json file should bear the following format.
+parameter,```config_json_file_path``` which is the path to .json file. The .json file is referenced from ```data directory``` by default. At minimum, the .json file should bear the following format.
 ```python3
 file_name = {"image_id": int # The image number if you are detecting in a batch,else it is 0
              "image_name": str,
