@@ -34,3 +34,10 @@ The following classes are supported until now.
 | ℹ️  | Just Clone this repo to your environment, install the requirements.txt and you are all set |
 | --- | --- |
 | ℹ️  | You may edit the .py files in uiElements directory to decorate the outlook of components|
+
+##  Examples
+The whole GUI Generation Process.
+| GUI Screenshot | Config file from ML Process | pyQT5 GUI Generated |
+| --- | --- | --- |
+|![37815.jpg](examples/37815.jpg) | [Check the json file here](data/37815.json) |![37815_1.jpg](examples/37815_1.jpg) |
+
