@@ -39,5 +39,5 @@ The following classes are supported until now.
 The whole GUI Generation Process.
 | GUI Screenshot | Config file from ML Process | pyQT5 GUI Generated |
 | --- | --- | --- |
-|![37815.jpg](examples/37815.jpg) | [Check the json file here](data/37815.json) |![37815_1.jpg](examples/37815_1.jpg) |
+|![37815.jpg](examples/37815.jpg) | [Check the json file here](data/37815.json) |![37815_1.jpg](examples/37815_1.JPG) |
 
