@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c878b9-06f3-4137-88eb-7c5ccc25cba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codeWriter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/template/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/checkbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/checkbox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/datePicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/datePicker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/listItem.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/listItem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/mapView.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/mapView.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/onOffSwitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/onOffSwitch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/radioButton.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/radioButton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/slider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiElements/textButton.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiElements/textButton.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +177,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
               <option name="FILTERS">
