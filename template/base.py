@@ -11,3 +11,4 @@ class ConfigurationsApp:
         self.bounds = data['bounds']
         self.classes = data['classes']
         self.classes_names = data['classes_names']
+        self.image_name = data['image_name'].split(".")[0]
